@@ -7,8 +7,6 @@ Welcome to the **Treasure Hunt Game**! This is a simple console-based game devel
 - [Features](#features)
 - [How to Play](#how-to-play)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -24,3 +22,20 @@ Welcome to the **Treasure Hunt Game**! This is a simple console-based game devel
 3. Compile the program using a C++ compiler. For example, you can use g++:
    ```bash
    g++ -o treasure_hunt treasure_hunt.cpp
+
+## Getting Started
+
+Getting Started
+To get a copy of this project up and running on your local machine for development and testing purposes, follow these steps:
+
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/ShreyanSimhadri/C---Console-Treasure-Hunt.git
+Navigate to the project directory:
+
+bash
+Copy code
+cd C---Console-Treasure-Hunt
+Compile and run the game (as described above).
